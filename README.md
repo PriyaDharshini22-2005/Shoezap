@@ -1,4 +1,4 @@
-# Shoezap
+a# Shoezap
 
 Shoezap is an innovative web application that allows users to find the perfect shoe based on their prompts. Users can interact with the system using natural language through a chat interface powered by the Gemini API. Once a shoe is selected, users can virtually try it on in 2D using advanced machine learning models.
 
@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Collaborators
 
-- **[PriyaDharshini22-2005](https://github.com/PriyaDharshini22-2005)**
+- **[Abishek Arun](https://github.com/Abishekmrgstar/)**
 - **[Devakesavan](https://github.com/Devakesavan)**
 - **[Dhatchayani2006](https://github.com/Dhatchayani2006)**
 - **[karthikeyan261222](https://github.com/karthikeyan261222)**
